@@ -1,0 +1,10 @@
+{
+  "latestVersion": "1.2.1",
+  "latestVersionCode": 19,
+  "url": "https://github.com/javiersantos/AppUpdater/releases",
+  "releaseNotes": [
+    "- Added DNSTT Keepalive",
+    "- Added Contacts (Telegram, FB Group, Messenger)",
+    "- Added App Downloader",
+    "- Bug Fixes"
+  ]
