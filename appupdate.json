@@ -1,6 +1,6 @@
 {
-  "latestVersion": "1.2.1",
-  "latestVersionCode": 19,
+  "latestVersion": "1.2.0",
+  "latestVersionCode": 18,
   "url": "https://www.mediafire.com/file/zpn9bnnkv9mx163/ph.pandavpn.unity.v3-1.2.0-release.apk/file",
   "releaseNotes": [
     "- Added DNSTT Keepalive",
