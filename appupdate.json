@@ -1,10 +1,11 @@
 {
   "latestVersion": "1.2.1",
   "latestVersionCode": 19,
-  "url": "https://github.com/javiersantos/AppUpdater/releases",
+  "url": "https://www.mediafire.com/file/zpn9bnnkv9mx163/ph.pandavpn.unity.v3-1.2.0-release.apk/file",
   "releaseNotes": [
     "- Added DNSTT Keepalive",
     "- Added Contacts (Telegram, FB Group, Messenger)",
     "- Added App Downloader",
     "- Bug Fixes"
   ]
+}
