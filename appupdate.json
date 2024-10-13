@@ -1,11 +1,13 @@
 {
-  "latestVersion": "1.2.1",
-  "latestVersionCode": 19,
+  "latestVersion": "1.2.2",
+  "latestVersionCode": 20,
   "url": "https://www.mediafire.com/file/wck2mzkoxry1b8h/ph.pandavpn.unity.v3-release.apk/file",
   "releaseNotes": [
-    "- Added DNSTT Keepalive",
+    "- Maximize Bandwidth of DNSTT using Keepalive",
     "- Added Contacts (Telegram, FB Group, Messenger)",
     "- Added App Downloader",
+    "- Encrypt V2Ray Configuration",
+    "- Added new security for Configuration",
     "- Bug Fixes"
   ]
 }
