@@ -1,12 +1,11 @@
 {
-  "latestVersion": "1.1.3",
-  "latestVersionCode": 11,
-  "url": "https://www.mediafire.com/file/4ome368npqcmluf/ph.risingphoenix.vpn.v3-release.apk/file",
+  "latestVersion": "1.1.4",
+  "latestVersionCode": 12,
+  "url": "https://www.mediafire.com/file/aqo5f4og48e1t5b/ph.risingphoenix.vpn.v3-release.apk/file",
   "releaseNotes": [
-    "- Added DNSTT Keepalive",
-    "- Added App Downloader",
-    "- App Version Checker",
-    "- Bug Fixes",
-    "- Encrypted V2Ray Configuration"
+    "- V2Ray Authentication",
+    "- Encrypted V2Ray Configuration",
+    "- Bug Fixes"
+
   ]
 }
