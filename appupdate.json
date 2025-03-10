@@ -1,11 +1,9 @@
 {
-  "latestVersion": "1.2.4",
-  "latestVersionCode": 22,
+  "latestVersion": "1.2.5",
+  "latestVersionCode": 23,
   "url": "https://www.mediafire.com/file/kn647l2vaqv21ul/ph.pandavpn.unity.v3-release.apk/file",
   "releaseNotes": [
-    "- Added V2Ray Authentication",
-    "- Encrypt V2Ray Configuration",
-    "- Added new security for Configuration",
-    "- Bug Fixes"
+   "- Rotating Payload/Host for WS",
+    "- New Payload Identifier"
   ]
 }
