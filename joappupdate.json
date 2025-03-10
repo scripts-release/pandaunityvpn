@@ -1,11 +1,9 @@
 {
-  "latestVersion": "1.1.4",
-  "latestVersionCode": 12,
+  "latestVersion": "1.1.5",
+  "latestVersionCode": 13,
   "url": "https://www.mediafire.com/file/aqo5f4og48e1t5b/ph.risingphoenix.vpn.v3-release.apk/file",
   "releaseNotes": [
-    "- V2Ray Authentication",
-    "- Encrypted V2Ray Configuration",
-    "- Bug Fixes"
-
+    "- Rotating Payload/Host for WS",
+    "- New Payload Identifier"
   ]
 }
