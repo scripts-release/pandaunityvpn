@@ -1,9 +1,9 @@
 {
-  "latestVersion": "1.2.5",
-  "latestVersionCode": 24,
+  "latestVersion": "1.2.7",
+  "latestVersionCode": 25,
   "url": "https://www.mediafire.com/file/kn647l2vaqv21ul/ph.pandavpn.unity.v3-release.apk/file",
   "releaseNotes": [
    "- Rotating Payload/Host for WS",
-    "- New Payload Identifier"
+    "- Fixing V2Ray Force Close"
   ]
 }
